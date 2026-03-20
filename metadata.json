@@ -1,0 +1,5 @@
+{
+  "name": "CampWiz NXT",
+  "description": "A high-performance media evaluation platform for Wiki Loves contests, migrated to a modular React architecture.",
+  "requestFramePermissions": []
+}
