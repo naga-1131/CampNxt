@@ -44,7 +44,7 @@ Status:Work in progress.
 This repository represents the initial phase of the CampWiz NXT frontend migration.
 
 Note:The goal of this project is not to redesign the system but to improve its structure and performance while preserving all existing functionality.
--->1
+-->1@
 
 <img width="1896" height="851" alt="image" src="https://github.com/user-attachments/assets/a45d44f9-b50c-4026-b5f0-7524548d6f9a" />
 
